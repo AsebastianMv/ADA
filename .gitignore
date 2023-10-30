@@ -115,3 +115,4 @@ vector_store/
 data/
 imagenes/
 .crt
+public/
