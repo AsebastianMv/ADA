@@ -35,17 +35,17 @@ default_expand_messages = false
 hide_cot = false
 
 # Link to your github repo. This will add a github button in the UI's header.
-# github = ""
+github = "https://github.com/AsebastianMv/ADA/blob/master/notebooks/Power_Pandas.ipynb"
 
 # Override default MUI light theme. (Check theme.ts)
 [UI.theme.light]
     background = "#FAFAFA"
-    paper = "#fdda24"
+    paper = "#72b62b"
 
     [UI.theme.light.primary]
-        main = "#fdda24"
-        dark = "#2c2a29"
-        light = "#2c2a29"
+        main = "#FAFAFA"
+        dark = "#000000"
+        light = "#000000"
 
 # Override default MUI dark theme. (Check theme.ts)
 [UI.theme.dark]
