@@ -1,0 +1,17 @@
+langchain==0.0.186
+pydantic==1.8
+openai
+google-generativeai
+deeplake
+python-dotenv
+typing-inspect==0.8.0
+typing_extensions==4.5.0
+chainlit
+tiktoken
+sentence_transformers
+pypdf
+pandas
+pydantic==1.10.9
+tabulate
+Chroma
+Chromadb
