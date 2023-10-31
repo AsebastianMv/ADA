@@ -40,7 +40,7 @@ github = "https://github.com/AsebastianMv/ADA/blob/master/notebooks/Power_Pandas
 # Override default MUI light theme. (Check theme.ts)
 [UI.theme.light]
     background = "#FAFAFA"
-    paper = "#72b62b"
+    paper = "#273379"
 
     [UI.theme.light.primary]
         main = "#FAFAFA"
